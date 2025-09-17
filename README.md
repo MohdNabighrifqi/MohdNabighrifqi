@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohd Nabigh Rifqi  
 
-<!--
-**MohdNabighrifqi/MohdNabighrifqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa Teknologi Informasi di Universitas Muhammadiyah Yogyakarta  
+🎨 Fokus pada **UI/UX Design** dan tertarik dengan **Frontend Development**  
+🌱 Sedang belajar: HTML, CSS, JavaScript, dan pengembangan web berbasis user experience  
+💡 Passion: Menciptakan antarmuka sederhana, fungsional, dan user-friendly  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech & Tools
+- Design: Figma | Canva 
+- Frontend: HTML | CSS | JavaScript  
+- Collaboration: GitHub  
+
+✨ *“Design is not just what it looks like, but how it works.”*  
