@@ -9,7 +9,7 @@
 
 ## 🔧 Tech & Tools
 - Design: Figma | Canva 
-- Frontend: HTML | CSS | JavaScript  
+- Frontend: HTML | CSS | JavaScript | PHP |Laravel
 - Collaboration: GitHub  
 
 ✨ *“Design is not just what it looks like, but how it works.”*  
